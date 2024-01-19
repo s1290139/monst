@@ -1,0 +1,71 @@
+.monst {
+    font-family: 'Reggae One', cursive;
+    color: white;
+    position: relative;
+    display: inline-block; 
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black, -3pt 0 gold, 0 3px gold, 3px 0 gold, 0 -3px gold;
+    font-size: 10px;
+    line-height: 1;
+}
+
+.monst h1 {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.mon{
+    font-family: 'Reggae One', cursive;
+}
+
+.bigmon{
+    font-family: 'Reggae One', cursive;
+    font-size: 20px;
+}
+
+.red {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.blue {
+    background-color: lightblue;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.green {
+    background-color: lightgreen;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.purple {
+    background-color: purple;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.gold {
+    background-color: gold;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
